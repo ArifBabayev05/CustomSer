@@ -1,0 +1,15 @@
+/Users/babayev_/Projects/ICustomDeveloper/bin/Debug/netcoreapp3.1/ICustomDeveloper.deps.json
+/Users/babayev_/Projects/ICustomDeveloper/bin/Debug/netcoreapp3.1/ICustomDeveloper.runtimeconfig.json
+/Users/babayev_/Projects/ICustomDeveloper/bin/Debug/netcoreapp3.1/ICustomDeveloper.runtimeconfig.dev.json
+/Users/babayev_/Projects/ICustomDeveloper/bin/Debug/netcoreapp3.1/ICustomDeveloper.dll
+/Users/babayev_/Projects/ICustomDeveloper/bin/Debug/netcoreapp3.1/ICustomDeveloper.pdb
+/Users/babayev_/Projects/ICustomDeveloper/obj/Debug/netcoreapp3.1/ICustomDeveloper.csproj.AssemblyReference.cache
+/Users/babayev_/Projects/ICustomDeveloper/obj/Debug/netcoreapp3.1/ICustomDeveloper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babayev_/Projects/ICustomDeveloper/obj/Debug/netcoreapp3.1/ICustomDeveloper.AssemblyInfoInputs.cache
+/Users/babayev_/Projects/ICustomDeveloper/obj/Debug/netcoreapp3.1/ICustomDeveloper.AssemblyInfo.cs
+/Users/babayev_/Projects/ICustomDeveloper/obj/Debug/netcoreapp3.1/ICustomDeveloper.csproj.CoreCompileInputs.cache
+/Users/babayev_/Projects/ICustomDeveloper/obj/Debug/netcoreapp3.1/ICustomDeveloper.dll
+/Users/babayev_/Projects/ICustomDeveloper/obj/Debug/netcoreapp3.1/ICustomDeveloper.pdb
+/Users/babayev_/Projects/ICustomDeveloper/obj/Debug/netcoreapp3.1/ICustomDeveloper.genruntimeconfig.cache
+/Users/babayev_/Projects/ICustomDeveloper/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/babayev_/Projects/ICustomDeveloper/obj/Debug/netcoreapp3.1/ICustomDeveloper.csproj.CopyComplete

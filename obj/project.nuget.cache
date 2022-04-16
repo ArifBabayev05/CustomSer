@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+eGE8mnwMoS2Tlnwa7lVTN6QNVvl2BFht6vja7i+aRolSnsliaeRHlxlN5yrYxHYx6/GjO2yH7bCSUqHTdBtBg==",
+  "success": true,
+  "projectFilePath": "/Users/babayev_/Projects/ICustomDeveloper/ICustomDeveloper.csproj",
+  "expectedPackageFiles": [
+    "/Users/babayev_/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
